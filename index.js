@@ -4,5 +4,9 @@ for( i = 0;i<100;i++){
         console.log(i);
     }
     else console.log("Odd")
+
+
+
+    
 }
 
